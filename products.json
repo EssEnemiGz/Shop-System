@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "cant": 6,
+        "price": 20000
+    },
+    {
+        "id": 2,
+        "name": "Mouse",
+        "cant": 10,
+        "price": 500
+    },
+    {
+        "id": 3,
+        "name": "Teclado",
+        "cant": 9,
+        "price": 3000
+    },
+    {
+        "id": 4,
+        "name": "USB 32GB",
+        "cant": 7,
+        "price": 600
+    }
+]
