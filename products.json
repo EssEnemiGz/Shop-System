@@ -6,12 +6,6 @@
         "price": 20000
     },
     {
-        "id": 2,
-        "name": "Mouse",
-        "cant": 10,
-        "price": 500
-    },
-    {
         "id": 3,
         "name": "Teclado",
         "cant": 9,
@@ -22,5 +16,17 @@
         "name": "USB 32GB",
         "cant": 7,
         "price": 600
+    },
+    {
+        "id": 10,
+        "name": "Mouse",
+        "price": "500",
+        "cant": "50"
+    },
+    {
+        "id": 10,
+        "name": "Monitor Samsung",
+        "price": "10000",
+        "cant": "10"
     }
 ]
